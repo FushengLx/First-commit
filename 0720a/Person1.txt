@@ -1,0 +1,3 @@
+name       age   citizen_id           school_id       bank_id            grade  major            isDor
+wanglong   23    444444444444444444   20242222222222  3333333333333333   1      Instrumentation  ture
+wangwenj   23    410122200101252345   20213333333333  5555555555555555   2      Physic           ture
